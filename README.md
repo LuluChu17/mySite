@@ -1,4 +1,4 @@
 # mySite
 
 ## Страница сайта:
-<!-- ссылка на публичную страницу -->
+https://luluchu17.github.io/mySite/
